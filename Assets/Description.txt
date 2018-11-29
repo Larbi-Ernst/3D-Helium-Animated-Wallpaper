@@ -1,0 +1,1 @@
+This folder contains the textures used for the particles
